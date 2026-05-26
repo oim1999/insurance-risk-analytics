@@ -50,7 +50,7 @@ env/
 .dvc/cache/
 .dvc/tmp/
 .dvc/plots/
-.dvcignore
+
 
 # OS
 .DS_Store
