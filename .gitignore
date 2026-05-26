@@ -47,7 +47,9 @@ env/
 .env
 
 # DVC
-.dvc/
+.dvc/cache/
+.dvc/tmp/
+.dvc/plots/
 .dvcignore
 
 # OS
