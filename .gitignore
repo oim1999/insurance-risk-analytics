@@ -3,6 +3,7 @@ data/
 *.csv
 *.xlsx
 *.zip
+!data/**/*.dvc
 
 # Python
 __pycache__/
