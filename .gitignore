@@ -1,9 +1,10 @@
 # Data files
-data/
+data/**/*.csv
+data/**/*.txt
+!data/**/*.dvc
 *.csv
 *.xlsx
 *.zip
-!data/**/*.dvc
 
 # Python
 __pycache__/
