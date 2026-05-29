@@ -13,3 +13,6 @@ flake8>=5.0.0
 black>=22.0.0
 openpyxl>=3.0.0
 dvc>=3.0.0
+xgboost>=1.6.0
+shap>=0.41.0
+lime>=0.2.0
